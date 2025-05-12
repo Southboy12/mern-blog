@@ -6,7 +6,7 @@ import ArticlesList from "./pages/ArticlesList"
 import Article from "./pages/Article"
 
 //Components
-import Navbar from "./components/navbar"
+import Navbar from "./components/Navbar"
 import NotFound from "./pages/NotFound";
 
 
